@@ -8,7 +8,6 @@
 ![10 Sample Of User Full Team Build Database](./img/user10SampleGoodOneForTesting.png) 
 ### You can use the tenTeamUserSample.json file to test your login on our Web site, and you're able to do the Query Appolo graphql
 
-
 # WhoYaGot and all the links-
 * [WhoYaGot-Login  Git Hub](https://github.com/willycoxy/WhoYaGot)
 * [WhoYaGot-Login Heroku](https://cryptic-stream-92735.herokuapp.com/)

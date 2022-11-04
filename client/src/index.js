@@ -5,12 +5,9 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import AppNavBar from './components/NavBar/NavBar';
 
-
 ReactDOM.render(
   <React.StrictMode>
-     
-    <App />
-    
+    <App />   
   </React.StrictMode>,
    document.getElementById('root')
 );
